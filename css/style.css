@@ -1,0 +1,13 @@
+/*css intestazione*/
+#background{
+    background-color: rgb(66, 162, 201);
+    height: 70px;
+    background-image: url(../img/pattern.png);
+    background-size: 270px;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+/*fine css intestazione*/
