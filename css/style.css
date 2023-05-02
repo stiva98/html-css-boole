@@ -11,3 +11,29 @@
     height: 100px;
 }
 /*fine css intestazione*/
+#title{
+    margin: 0;
+    padding-top: 10px;
+}
+
+#span-gray{
+    color: gray;
+    font-weight: bold;
+}
+#span-skyblue{
+    color: skyblue;
+    font-weight: bold;
+}
+#date{
+    color: gray;
+    margin: 0;
+    padding-bottom: 15px;
+}
+.Tim{
+    width: 443px;
+    height: 262px;
+}
+p{
+    margin: 0;
+}
+/*terminata parte con foto/*
