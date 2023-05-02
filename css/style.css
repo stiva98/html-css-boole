@@ -47,3 +47,31 @@
     padding-left: 15px;
 }
 /*terminata parte prima tabella*/
+
+.table-header{
+    background-color: rgb(0, 153, 255);
+    color: white;
+    width: 100%;
+    text-align: left;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-collapse: collapse;
+    
+
+}
+#table-body{
+    text-align: left;
+    background-color: skyblue;
+    color: black;
+    width: 0;
+  
+}
+
+#table-bodywhite{
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: 0;
+}
+/*Tabella terminata*/
+
