@@ -75,3 +75,21 @@
 }
 /*Tabella terminata*/
 
+h5{
+    color: gray;
+}
+
+.img{
+    height: 250px;
+    width: 250px;
+    background: url(../img/graph.jpg)
+}
+.img2{
+    height: 250px;
+    width: 250px;
+    background: url(../img/monitor.jpg)
+}
+h3{
+    color:white;
+    padding: 10px;
+}
